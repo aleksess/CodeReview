@@ -1,12 +1,12 @@
 import React from 'react';
-import './Bar.css';
+
 
 function Bar(){
     return (
         <div className="Bar">
-
+            <p>SerialWeb</p>                      
         </div>
     )
 }
 
-export default  Bar;
+export default Bar;
